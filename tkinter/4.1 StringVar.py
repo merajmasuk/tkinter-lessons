@@ -9,3 +9,6 @@ print(varData)
 
 print(tk.IntVar().get())
 print(tk.DoubleVar())
+
+win.mainloop()
+
